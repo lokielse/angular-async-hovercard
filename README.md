@@ -36,13 +36,13 @@ Use it in your project.
 <html ng-app="ngApp">
 ...
 <body>
-  <hovercard hover-tmpl-url="'hoverCardDetail.tmpl'">Hover over here</hovercard>.
+  <hovercard hover-tmpl-url="'hoverCardDetail.tmpl'" async="true">Hover over here</hovercard>.
   ...
 </body>
 </html>
 ```
 
-or check out my [Plunker](http://plnkr.co/edit/s6BVMpqTPdeHo7zE4nWU?p=preview) for the minimal setup.
+
 
 
 How to Contribute
