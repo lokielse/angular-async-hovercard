@@ -4,11 +4,6 @@ angular-hovercard
 Hovercard is a very lightweight Angular directive that is written purely in AngularJS. It is a card that is displayed when you hover over a label. The card can contain any html element.
 
 
-Demo
-----
-Check out the demo [here](http://www.brianpark.ca/projects/angular_hovercard/demo/).
-
-
 How to Use
 ----------
 Include `angular-hovercard.(js|css|tmpl)` in your project (you can do so via `bower install angular-hovercard`).
