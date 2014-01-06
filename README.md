@@ -43,7 +43,7 @@ Use it in your project.
 How to Contribute
 -----------------
 ```
-$ git clone https://github.com/yaru22/angular-hovercard.git
+$ git clone https://github.com/lokielse/angular-async-hovercard.git
 $ cd angular-hovercard
 $ npm install; bower install
 $ # modify the source code in src/
