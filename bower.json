@@ -1,18 +1,18 @@
 {
   "author": {
-    "name": "Brian Park",
-    "email": "yaru22@gmail.com"
+    "name": "Loki Else",
+    "email": "lokielse@gmail.com"
   },
 
   "name": "angular-hovercard",
-  "description": "Angular 'hovercard' directive.",
+  "description": "Angular Asynchronous 'hovercard' directive.",
   "version": "0.1.0",
   "license": "MIT",
 
-  "homepage": "https://github.com/yaru22/angular-hovercard",
+  "homepage": "https://github.com/lokielse/angular-async-hovercard",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yaru22/angular-hovercard.git"
+    "url": "git://github.com/lokielse/angular-async-hovercard.git"
   },
 
   "ignore": [
